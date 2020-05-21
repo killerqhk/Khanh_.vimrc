@@ -38,6 +38,8 @@ sudo make install
 ```
 Check if re-compiling Vim is okay:
 PATH=/usr/local/bin:$PATH vim --version | grep conceal 
-If you see the line:  
+You should see the line:  
 <code>+conceal           +linebreak         -python3           +visualextra</code>  
-You are good to go, or you ăn *loooool* rồi
+
+HOWEVER, IF you don't:
+##########you ăn *loooool* rồi
