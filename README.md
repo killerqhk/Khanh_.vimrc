@@ -12,9 +12,9 @@ Ins:
 cd ~/.vim/bundle/   
 git clone https://github.com/Yggdroot/indentLine.git 
 
-3. Syntax checking https://github.com/vim-syntastic/syntastic
-Ins:
-cd ~/.vim/bundle/
+3. Syntax checking https://github.com/vim-syntastic/syntastic  
+Ins:  
+cd ~/.vim/bundle/   
 git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 
 4. clang-format    
