@@ -47,4 +47,4 @@ You should see the line:
 <code>+conceal           +linebreak         -python3           +visualextra</code>  
 
 HOWEVER, If you don't,  
-You ăn *LOOOOL* rồi
+You ăn *LOOOOL* rồi.
