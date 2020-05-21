@@ -1,5 +1,5 @@
 # Khanh_.vimrc
-Set up Vim for C. This setup include:
+Set up Vim for C. This setup includes:
 
 1. Pathogen: https://github.com/tpope/vim-pathogen2.  
 Ins:  
