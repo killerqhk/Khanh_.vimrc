@@ -21,12 +21,16 @@ git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 ```
 4. clang-format    
 Ins:  
-```sudo apt install clang-format (linux)   
+```sudo apt install clang-format (linux)
+```
+or,
+```
 brew install clang-format (Mac)
 ```
 After installing all plugins. Download vimrc file and run:  
-<code>cd ~/Downloads/
-cp vimrc ~/.vimrc</code>
+```cd ~/Downloads/
+cp vimrc ~/.vimrc
+```
 
 Recompile VIM for mac:  
 ```
