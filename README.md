@@ -17,7 +17,7 @@ Ins:
 cd ~/.vim/bundle/
 git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 
-4. clang-format
-sudo apt install clang-format (linux)
+4. clang-format. 
+sudo apt install clang-format (linux). 
 brew install clang-format (Mac)
 
