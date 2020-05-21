@@ -41,5 +41,5 @@ PATH=/usr/local/bin:$PATH vim --version | grep conceal
 You should see the line:  
 <code>+conceal           +linebreak         -python3           +visualextra</code>  
 
-HOWEVER, IF you don't:
-##########you ăn *loooool* rồi
+HOWEVER, IF you don't,  
+You ăn *loooool* rồi
