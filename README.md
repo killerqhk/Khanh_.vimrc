@@ -29,7 +29,8 @@ or,
 brew install clang-format (Mac)
 ```
 After installing all plugins. Download vimrc file and run:  
-```cd ~/Downloads/
+```
+cd ~/Downloads/
 cp vimrc ~/.vimrc
 ```
 
